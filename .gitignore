@@ -1,0 +1,12 @@
+# Kaggle competition data (~2.7 GB, re-downloadable)
+Data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
